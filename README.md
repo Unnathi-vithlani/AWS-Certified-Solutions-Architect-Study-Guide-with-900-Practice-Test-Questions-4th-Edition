@@ -1,4 +1,4 @@
-# AWS Certified Solutions Architect – Associate (SAA-C03)
+# AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions, 4th Edition
 ## Study Kit README
 
 > **Book Reference:** *AWS Certified Solutions Architect Study Guide with 900 Practice Test Questions, 4th Edition* (O'Reilly)

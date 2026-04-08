@@ -142,4 +142,4 @@ A capstone-style kata project for practicing AWS architecture design.
 
 ---
 
-*Good luck on the SAA-C03! 🚀*
+*Good luck! 🚀*
